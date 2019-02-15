@@ -1,0 +1,1 @@
+{"version":3,"sources":["_p.sass","main.sass"],"names":[],"mappings":"AAAA,EACI,MAAA,KCEJ,KACI,WAAA,KAKJ,IACI,MAAA","file":"style.min.css","sourcesContent":["p {\n    color: yellow; }\n\n","@import \"p\";\n\n\nbody {\n    background: #000000; }\n\n\n\n\ndiv {\n    color: white; }\n"]}
