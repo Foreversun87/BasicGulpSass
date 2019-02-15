@@ -1,9 +1,9 @@
-git status ==> Gibt aktuelle Files an
-git reset ==> files aus SafeArea entfernen
-git reset *.html ==> entfernt alle .html Dateien aus SafeArea
-git add -A ==> alle Files in SafeArea
-git add *.html ==> alle .html Files in SafeArea
-git clone <url> ==> Klont das ausgewählte Repository
-git remote -v ==> gibt Pfad zu Repository an
-git branch -a ==> gibt die verschiedenen Versionen an
-git diff ==> zeigt die Änderungen im Code
+git status                  ==> Gibt aktuelle Files an
+git reset                   ==> files aus SafeArea entfernen
+git reset *.html            ==> entfernt alle .html Dateien aus SafeArea
+git add -A                  ==> alle Files in SafeArea
+git add *.html              ==> alle .html Files in SafeArea
+git clone <url>             ==> Klont das ausgewählte Repository
+git remote -v               ==> gibt Pfad zu Repository an
+git branch -a               ==> gibt die verschiedenen Versionen an
+git diff                    ==> zeigt die Änderungen im Code
