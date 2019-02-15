@@ -7,9 +7,9 @@ git clone <url>             ==> Klont das ausgewählte Repository
 git remote -v               ==> gibt Pfad zu Repository an
 git branch -a               ==> gibt die verschiedenen Versionen an
 git branch calc-divide      ==> Fügt einen Branch calc-divide hinzu
-
+git checkout master         ==> Switch zum master Branch
 
 git diff                    ==> zeigt die Änderungen im Code
 
-git pull                    ==> lokales Repository wird mit Repository abgeglichen
-git push                    ==> Repository erhält Informationen aus lokalem Repository
+git pull origin master      ==> lokales Repository wird mit Repository abgeglichen
+git push origin master      ==> Repository erhält Informationen aus lokalem Repository
