@@ -6,6 +6,9 @@ git add *.html              ==> alle .html Files in SafeArea
 git clone <url>             ==> Klont das ausgewählte Repository
 git remote -v               ==> gibt Pfad zu Repository an
 git branch -a               ==> gibt die verschiedenen Versionen an
+git branch calc-divide      ==> Fügt einen Branch calc-divide hinzu
+
+
 git diff                    ==> zeigt die Änderungen im Code
 
 git pull                    ==> lokales Repository wird mit Repository abgeglichen
