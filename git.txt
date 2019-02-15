@@ -7,3 +7,6 @@ git clone <url>             ==> Klont das ausgewählte Repository
 git remote -v               ==> gibt Pfad zu Repository an
 git branch -a               ==> gibt die verschiedenen Versionen an
 git diff                    ==> zeigt die Änderungen im Code
+
+git pull                    ==> lokales Repository wird mit Repository abgeglichen
+git push                    ==> Repository erhält Informationen aus lokalem Repository
