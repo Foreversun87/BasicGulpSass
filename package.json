@@ -4,8 +4,8 @@
   "description": "Grundstruktur zum HTML-Testen",
   "main": "index.js",
   "dependencies": {
-    "howler": "^2.1.1",
-    "jquery": "^3.3.1"
+    
+    
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
