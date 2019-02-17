@@ -1,8 +1,8 @@
 YT: https://www.youtube.com/watch?v=HVsySz-h9r4
 
 
-git status                  ==> Gibt aktuelle Files an
-git reset                   ==> files aus SafeArea entfernen
+git status                  ==> Gibt Änderungen in Files gegenüber dem lokalen Git an
+git reset                   ==> Files aus SafeArea entfernen
 git reset *.html            ==> entfernt alle .html Dateien aus SafeArea
 git add -A                  ==> alle Files in SafeArea
 git add *.html              ==> alle .html Files in SafeArea
