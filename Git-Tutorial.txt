@@ -9,6 +9,7 @@ git add *.html              ==> alle .html Files in SafeArea
 git commit -m "Text"        ==> schreibt Daten aus SafeArea in das lokale Git
 git clone <url>             ==> Klont das ausgewählte Repository
 git remote -v               ==> gibt Pfad zu Repository an
+git remote add [shortname] [url] ==> Mit einem externen Repository verbinden
 git branch -a               ==> gibt die verschiedenen Versionen an
 git branch calc-divide      ==> Fügt einen Branch calc-divide hinzu
 git branch -d calc-divide   ==> löscht den angegebenen Branch (lokal)
