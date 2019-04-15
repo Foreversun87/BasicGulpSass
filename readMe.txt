@@ -1,0 +1,1 @@
+Zum installieren einfach "npm i" eingeben
